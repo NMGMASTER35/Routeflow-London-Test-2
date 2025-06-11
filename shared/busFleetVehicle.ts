@@ -22,3 +22,5 @@ export interface BusFleetVehicle {
   }>;
   achievements?: string[]; // e.g., rare sightings, awards
 }
+
+"homepage": "https://<your-github-username>.github.io/<your-repo-name>"
