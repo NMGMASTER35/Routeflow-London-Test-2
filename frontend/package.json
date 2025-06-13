@@ -1,0 +1,5 @@
+"homepage": "https://nmgmaster35.github.io/Routeflow-London-Test-2",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
